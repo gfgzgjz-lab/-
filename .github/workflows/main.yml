@@ -1,3 +1,6 @@
+pip install requests
+user_agent
+python-cfonts
 import requests
 import webbrowser
 import time
